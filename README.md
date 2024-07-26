@@ -13,3 +13,6 @@ The online retail store is seeking to evaluate its data to offer valuable insigh
 4.	the bar chart featuring the top 10 customer IDs with revenue highlights customer ID 14646 at the top with 0.28 million in revenue, followed by customer ID 18102 with 0.26 million in revenue.
    
 5.	A map chart is utilized to demonstrate product demand by country, with darker colours indicating higher demand. The countries with the highest demand for the product include the Netherlands, Germany, France, Eire, and Australia.
+
+   ![retail Dash](https://github.com/user-attachments/assets/f383f5fd-bc59-4932-a384-042410030bb2)
+
